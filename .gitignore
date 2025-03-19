@@ -13,6 +13,10 @@ npm-debug.log
 yarn-error.log
 /.idea
 /.vscode
+<<<<<<< HEAD
 
+=======
+/public
+>>>>>>> f97144e4ff624f4edaff4398e1b74d1e0424ed03
 !/public/barcode-images
 !/public/import_demo_files
