@@ -72,7 +72,7 @@ const TopCustomersChart = ( props ) => {
     <div className='col-xxl-4 col-12'>
       <Card>
         <Card.Header className='pb-0 px-0 justify-content-center'>
-          <h5 className="mb-0">{getFormattedMessage( 'dashboard.top-customers.title' )} ({moment( month ).locale( languageCode ).format( 'MMMM' )})</h5>
+          <h5 className="mb-0">tony fowler ({moment( month ).locale( languageCode ).format( 'MMMM' )})</h5>
         </Card.Header>
         <Card.Body className='p-3'>
           <ReactECharts

@@ -182,7 +182,6 @@
     "warehouse.success.create.message": "Warehouse created successfully",
     "warehouse.success.edit.message": "Warehouse updated successfully",
     "warehouse.success.delete.message": "Warehouse deleted successfully",
-
     "variation.name": "Variation Name",
     "variation.variation_types": "Variation Types",
     "variations.title": "Variations",
@@ -201,7 +200,6 @@
     "variation.type.input.name.validate.label": "Please enter valid variation types",
     "variation.select.validation.error.message": "Please select a variation",
     "variation.type.select.validate.error.message": "Please select variation types",
-
     "products.title": "Products",
     "product.title": "Product",
     "product.create.title": "Create Product",
@@ -308,7 +306,7 @@
     "expense.success.edit.message": "Expense updated successfully",
     "expense.success.delete.message": "Expense deleted successfully",
     "roles.title": "Roles",
-    "roles.permissions.title": "Roles/Permissions",
+    "roles.permissions.title": "Roles\/Permissions",
     "role.title": "Role",
     "role.create.title": "Create Role",
     "role.edit.title": "Edit Role",
@@ -585,7 +583,7 @@
     "pos-total-qty.title": "Total QTY",
     "pos-total.title": "Total",
     "pos-pay-now.btn": "Pay Now",
-    "pos-globally.search.field.label": "Scan/Search Product by Code Name",
+    "pos-globally.search.field.label": "Scan\/Search Product by Code Name",
     "pos-make-Payment.title": "Make Payment",
     "pos-received-amount.title": "Received Amount",
     "pos-total-amount.title": "Total Amount",
@@ -813,7 +811,7 @@
     "product.type.label": "Product Type",
     "product.type.placeholder.label": "Choose Product Type",
     "product.type.input.validation.error": "Please select product type",
-    "products.warehouse.title":"Product Warehouse",
-    "barcode-symbol-uppercase-validation-message":"Please enter only uppercase letters and numbers for Code 39 Barcode Symbology.",
-    "sale.product-qty.limit.validate.message":"You can't buy more than limit quantity"
+    "products.warehouse.title": "Product Warehouse",
+    "barcode-symbol-uppercase-validation-message": "Please enter only uppercase letters and numbers for Code 39 Barcode Symbology.",
+    "sale.product-qty.limit.validate.message": "You can't buy more than limit quantity"
 }
